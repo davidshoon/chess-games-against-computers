@@ -1,0 +1,24 @@
+[Event "Computer chess game"]
+[Site "FAMILY-SERVER"]
+[Date "2006.04.15"]
+[Round "-"]
+[White "dave"]
+[Black "Crafty-19.3"]
+[Result "1-0"]
+[TimeControl "60"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Bf3 Nc6 6. Nge2 Ne5 7. Be4
+f5 8. Bd5 c6 9. Nf4 Qd6 10. Bb3 Bd7 11. d4 Ng6 12. Nxg6 hxg6 13. Ne2 Be6
+14. Bf4 Qd7 15. O-O Nf6 16. c4 O-O-O 17. d5 Bf7 18. Qd4 e5 19. Bxe5 Bd6 20.
+f4 c5 21. Qc3 Qe7 22. h3 Bxe5 23. Qxe5 Rhe8 24. Qxe7 Rxe7 25. Nc3 Kc7 26.
+Rfe1 Rde8 27. Rxe7+ Rxe7 28. Rd1 Ne4 29. Re1 Kd7 30. Nxe4 fxe4 31. Kf2 Kd6
+32. Ke3 g5 33. fxg5 Bg6 34. h4 Bf5 35. Rf1 Re5 36. Rf4 Bg6 37. g4 Be8 38.
+Bc2 b5 39. b3 b4 40. Rxe4 Rxe4+ 41. Bxe4 g6 42. Bf3 Bf7 43. Kf4 Bg8 44. h5
+Bf7 45. hxg6 Bxg6 46. Be4 Be8 47. g6 a5 48. g7 Bf7 49. Bh7 a4 50. bxa4 Kd7
+51. g5 Ke7 52. Kf5 b3 53. axb3 Kd6 54. Kf6 Bxd5 55. cxd5 c4 56. bxc4 Kc5
+57. g8=Q Kd4 58. d6 Ke3 59. c5 Kd2 60. d7 Ke2 61. c6 Ke3 62. Qe8+ Kf3 63.
+g6 Kg3 64. g7 Kg2 65. Qg6+ Kf2 66. a5 Ke3 67. a6 Ke2 68. Kf7 Kf2 69. c7 Ke3
+70. a7 Ke2 71. g8=Q Ke1 72. d8=Q Ke2 73. c8=Q Ke3 74. a8=Q Ke2 75. Qdd3+
+Kf2 76. Qgg3#
+{White mates} 1-0
+

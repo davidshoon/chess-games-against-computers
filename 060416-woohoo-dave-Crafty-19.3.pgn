@@ -1,0 +1,52 @@
+[Event "Computer chess game"]
+[Site "FAMILY-SERVER"]
+[Date "2006.04.17"]
+[Round "-"]
+[White "dave"]
+[Black "Crafty-19.3"]
+[Result "1-0"]
+[TimeControl "60"]
+
+1. e4 d5 2. e5 c5 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qa5+ 6. Nc3 Qxb5 7. Nxb5
+Nxd4 8. Nxd4 Bd7 9. Bd2 e6 10. Ngf3 Ne7 11. O-O Ng6 12. h4 h5 13. Bg5 Bc5
+14. Ne2 Bb5 15. Rfe1 Bxe2 16. Rxe2 O-O 17. Rd1 Rac8 18. a4 Rc6 19. c3 Bb6
+20. Ra1 Rfc8 21. a5 Bc7 22. Ree1 Ra6 23. b4 Rc6 24. Ra3 Rc4 25. Nd2 Bxe5
+26. Nxc4 Rxc4 27. a6 b6 28. Bd2 Rxh4 29. b5 Bh2+ 30. Kf1 Bf4 31. Ke2 Bxd2
+32. Kxd2 Rh2 33. Rg1 Nf4 34. c4 dxc4 35. Rc3 h4 36. Rxc4 Rxg2 37. Rxg2 Nxg2
+38. Ke2 g5 39. Rc7 h3 40. Kf3 Nh4+ 41. Kg3 h2 42. Kxh2 Nf3+ 43. Kg3 Nd4 44.
+Rxa7 Nxb5 45. Rb7 Kg7 46. Rxb6 Na7 47. Rb7 Nc8 48. Rc7 Nd6 49. Kg2 Nb5 50.
+Rb7 Nd6 51. a7 Nxb7 52. a8=Q Nd6 53. Qd8 Ne4 54. Qd4+ Nf6 55. Qe5 Kg6 56.
+Kg3 Nh5+ 57. Kg4 f5+ 58. Kf3 Nf4 59. Qd6 Kf6 60. Kg3 Ne2+ 61. Kg2 Nf4+ 62.
+Kf3 Nd5 63. Qf8+ Kg6 64. Qe8+ Kf6 65. Qd7 Ne7 66. Qd8 Kf7 67. Kg3 e5 68. f3
+Ke6 69. Qb6+ Kf7 70. Qh6 Ng6 71. Qxg5 Ne7 72. Kh3 Ke6 73. Qh6+ Kd7 74. Qf6
+e4 75. fxe4 fxe4 76. Qd4+ Kc6 77. Qxe4+ Nd5 78. Kg4 Kd6 79. Qe2 Kc5 80. Kf5
+Nc3 81. Qg4 Nb5 82. Ke5 Kb6 83. Qg1+ Kc6 84. Qe3 Nc7 85. Qe4+ Kc5 86. Qd4+
+Kb5 87. Kd6 Ne8+ 88. Kd7 Ng7 89. Qxg7 Kb4 90. Qd4+ Ka3 91. Qb6 Ka2 92. Qb4
+Ka1 93. Kd6 Ka2 94. Kd5 Ka1 95. Kd4 Ka2 96. Kc3 Ka1 97. Kc2 Ka2 98. Qb2#
+{White mates} 1-0
+
+[Event "Computer chess game"]
+[Site "FAMILY-SERVER"]
+[Date "2006.04.17"]
+[Round "-"]
+[White "dave"]
+[Black "Crafty-19.3"]
+[Result "1-0"]
+[TimeControl "60"]
+
+1. e4 d5 2. e5 c5 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qa5+ 6. Nc3 Qxb5 7. Nxb5
+Nxd4 8. Nxd4 Bd7 9. Bd2 e6 10. Ngf3 Ne7 11. O-O Ng6 12. h4 h5 13. Bg5 Bc5
+14. Ne2 Bb5 15. Rfe1 Bxe2 16. Rxe2 O-O 17. Rd1 Rac8 18. a4 Rc6 19. c3 Bb6
+20. Ra1 Rfc8 21. a5 Bc7 22. Ree1 Ra6 23. b4 Rc6 24. Ra3 Rc4 25. Nd2 Bxe5
+26. Nxc4 Rxc4 27. a6 b6 28. Bd2 Rxh4 29. b5 Bh2+ 30. Kf1 Bf4 31. Ke2 Bxd2
+32. Kxd2 Rh2 33. Rg1 Nf4 34. c4 dxc4 35. Rc3 h4 36. Rxc4 Rxg2 37. Rxg2 Nxg2
+38. Ke2 g5 39. Rc7 h3 40. Kf3 Nh4+ 41. Kg3 h2 42. Kxh2 Nf3+ 43. Kg3 Nd4 44.
+Rxa7 Nxb5 45. Rb7 Kg7 46. Rxb6 Na7 47. Rb7 Nc8 48. Rc7 Nd6 49. Kg2 Nb5 50.
+Rb7 Nd6 51. Rb8 Nf5 52. a7 Nh4+ 53. Kh3 Ng6 54. a8=Q Kf6 55. Kg3 Nh4 56.
+Qa1+ Kg6 57. Rb4 Nf5+ 58. Kg4 Nh6+ 59. Kf3 Nf5 60. Qb1 Kh5 61. Qh1+ Kg6 62.
+Kg4 Nh6+ 63. Kf3 Nf5 64. Ke2 Ng7 65. Kd3 Nh5 66. Ke4 Nf6+ 67. Ke5 Nd7+ 68.
+Kd6 Nf6 69. f4 Ne8+ 70. Ke5 f6+ 71. Kxe6 Ng7+ 72. Kd6 g4 73. Qb1+ f5 74.
+Ke7 g3 75. Rb6+ Kh7 76. Qh1+ Kg8 77. Rh6 Ne8 78. Rh8+ Kg7 79. Rxe8 g2 80.
+Qxg2+ Kh7 81. Ke6 Kh6 82. Rh8#
+{White mates} 1-0
+
